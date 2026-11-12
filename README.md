@@ -10,7 +10,7 @@ Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimient
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
 
-## Habilidades
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
 <h4> Lenguajes </h4>
 <span> 
