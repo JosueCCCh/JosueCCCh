@@ -8,10 +8,11 @@ Me gusta aprender de forma constante, explorar nuevas tecnologías y aplicar lo 
 
 ---
 
-##  Redes Sociales:
+## 🌐 Redes Sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josué-luis-córdova-chávez-3673b3319)
-Gmail: cordovachavezjosueluis@gmail.com
+<p>Gmail: cordovachavezjosueluis@gmail.com</p>
+
 ---
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
