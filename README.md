@@ -38,7 +38,7 @@ Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimient
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://camo.githubusercontent.com/de7e07a4b6b6af53baccfb67dc78c130131a1c9b8e0a413cbe4c3e8c4fae5840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e7469677261766974792d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
