@@ -52,7 +52,7 @@ Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimient
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>Mis Redes Sociales ... </i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/josu%C3%A9-luis-c%C3%B3rdova-ch%C3%A1vez-3673b3319/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
