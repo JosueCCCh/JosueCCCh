@@ -2,14 +2,9 @@
 
 ## 💫 Sobre mí:
 
-Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimientos se basan en desarrollo web
+Actualmente estoy en el 8º ciclo de la carrera de Ingeniería Informática. Mis conocimientos se basan en especialmente desarrollo web, me apasiona crear aplicaciones funcionales, bien estructuradas y con una buena experiencia de usuario.
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-  - Mobile Application Development
-  - Web Application Development
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+Me gusta aprender de forma constante, explorar nuevas tecnologías y aplicar lo que estudio en proyectos reales. Disfruto trabajar en equipo, resolver problemas y convertir ideas en soluciones que se puedan usar.
 
 ---
 
