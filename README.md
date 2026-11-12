@@ -22,21 +22,21 @@ Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimient
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-### 🧰 Frameworks
+<h4> 🧰 Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </span>
 
-### 🗄️ Bases de Datos
+<h4> 🗄️ Bases de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+<h4> 💻 IDE </h4>
 <span>
 	<img 			  src="https://camo.githubusercontent.com/de7e07a4b6b6af53baccfb67dc78c130131a1c9b8e0a413cbe4c3e8c4fae5840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f	416e7469677261766974792d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465">
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
