@@ -1,52 +1,46 @@
+# 👋 Mi nombre es Josué Córdova,
 
-### 👋 Mi nombre es Josué Córdova,
+---
 
-Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimientos se basan en desarrollo web 
+## 💫 Sobre mí:
+
+Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimientos se basan en desarrollo web
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
+  - Mobile Application Development
+  - Web Application Development
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
+---
 
-<h4> 👨‍💻 Lenguajes </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+## 🛠️ Habilidades
 
-<h4> 🧰 Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-</span>
+### 👨‍💻 Lenguajes
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h4> 🗄️ Bases de Datos </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</span>
+### 🧰 Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-<h4> 💻 IDE </h4>
-<span>
-	<img 			  src="https://camo.githubusercontent.com/de7e07a4b6b6af53baccfb67dc78c130131a1c9b8e0a413cbe4c3e8c4fae5840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f	416e7469677261766974792d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465">
-	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-	<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-</span>
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### 💻 IDE
+![Antigravity](https://camo.githubusercontent.com/de7e07a4b6b6af53baccfb67dc78c130131a1c9b8e0a413cbe4c3e8c4fae5840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e7469677261766974792d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
-</span>
+### Other Tools and Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
