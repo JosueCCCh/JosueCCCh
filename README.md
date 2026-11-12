@@ -13,7 +13,7 @@ Estoy en el 8° ciclo de la carrera de Ingeniería Informática. Mis conocimient
 
 ---
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
+<h3><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h3>
 
 ### 👨‍💻 Lenguajes
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
