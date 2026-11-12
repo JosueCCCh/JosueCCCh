@@ -1,4 +1,4 @@
-# 👋 Mi nombre es Josué Córdova,
+# 👋 Mi nombre es Josué Córdova
 
 ## 💫 Sobre mí:
 
